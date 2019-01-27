@@ -95,3 +95,4 @@ class InstrumentFamilyView {
 // };
 
 module.exports = InstrumentFamilyView;
+// export default InstrumentFamilyView {}
